@@ -187,7 +187,6 @@
 {"name":"🈚多多快","url":"https://yydsys.top/duo"},
 {"name":"🤙七七","url":"https://agit.ai/Doudou/TVbox/raw/branch/master/intf/intf_1.json"},
 {"name":"🚎图图","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
-{"name":"🎾小米","url":"http://xhww.fun:63/小米/DEMO.json"},
 {"name":"🏵️道长","url":"https://pastebin.com/raw/5NHaxyGR"},
 {"name":"🌵影探4k","url":"http://www.lyyytv.cn/yt/yt.json"},
 {"name":"🍓魔改线路","url":"https://download.kstore.space/download/2883/%E5%BD%B1%E8%A7%86%E4%BB%93.txt"},
@@ -290,11 +289,6 @@
       "name": "🌹订阅3区",
       "url": "http://我不是.肥猫.love:63/接口禁止贩卖"
     },
-    {
-      "name": "🌹订阅4区",
-      "url": "http://xhww.fun:63/小米/DEMO.json"
-    },
-
     {
       "name": "🌹订阅5区",
       "url": "https://agit.ai/tsparkour/nmys/raw/branch/master/qt/lxys.json"
@@ -720,7 +714,6 @@
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用源","name": "自己专用"},
 {"url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/直播/api.json","name":"PizazzGY直播"},
 {"url":"http://饭太硬.ml/tv/","name": "饭太硬线"},
-{"url":"http://xhww.fun:63/小米/DEMO.json","name": "小暴脾气"},
 {"url":"https://qu.ax/pLUg.json","name":"小武路线"},
 {"url":"https://www.tlam.cn/API/api","name":"透明API"},
 {"url":"https://www.bestpvp.site/关注码上放生/时光机","name":"码上放生"},
